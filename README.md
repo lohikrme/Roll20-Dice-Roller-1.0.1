@@ -1,15 +1,9 @@
 # Roll20-Dice-Roller-1.0.1
-To automatize rolling dice in roll20.net.
-
-
 Hello! This is my Roll20 Dice Roller version 1.0.1. 
-
-I am lohikrme from github, here is my account: https://github.com/lohikrme
 
 All rights reserved. For personal use only.
 
-
-Last time updated: 2/4/2023.
+Last time updated: 1/5/2023.
 
 
 
