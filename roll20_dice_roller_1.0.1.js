@@ -4,12 +4,8 @@
 So, whenever an user presses a number between 1-9 in his keyboard, this script will automatically do next:
 first left-clicks the chat in roll20 gaming website, then writes "/roll xd6" and then presses enter. 
 Imagine rolling the dice 300 times in a single game - this script will save u about 300 clicks and 2700 keys.
-
 I wrote this script 25.12.2022 - 5.1.2023. 
-
 For personal use only. All rights reserved. 
-
-
 
 
 
